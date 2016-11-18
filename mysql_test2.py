@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+#This is a test
 #°²×° MYSQL DB for python
 import MySQLdb as mdb
 con = None
